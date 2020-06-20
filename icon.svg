@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480px" height="480px" viewBox="0 0 480 480" aria-labelledby="title">
+  <title id="title">Reference implementation of hakatashi's icon by SVG 2</title>
+
+  <!-- Black Polygon -->
+  <polygon fill="black" points="130,185 146,173 286,243 286,343 270,355 130,285">
+    <title>Black Polygon</title>
+  </polygon>
+
+  <!-- Red Polygon -->
+  <polygon fill="red" points="162,161 178,149 318,219 318,319 302,331 302,231">
+    <title>Red Polygon</title>
+  </polygon>
+
+  <!-- Blue Polygon -->
+  <polygon fill="blue" points="194,137 210,125 350,195 350,295 334,307 334,207">
+    <title>Blue Polygon</title>
+  </polygon>
+</svg>
