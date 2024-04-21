@@ -8,6 +8,8 @@ SPDX-License-Identifier: CC-BY-4.0
 
 ![Header Image](images/ogimage.png)
 
+[![REUSE status](https://api.reuse.software/badge/github.com/hakatashi/icon)](https://api.reuse.software/info/github.com/hakatashi/icon)
+
 ## Specification
 
 ### Shape
