@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Koki Takahashi <hakatasiloving@gmail.com>
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # hakatashi's icon gallery
 
 ![Header Image](images/ogimage.png)

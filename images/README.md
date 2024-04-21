@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Koki Takahashi <hakatasiloving@gmail.com>
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 [![](2nd_gen/aberrate.png)](2nd_gen/aberrate.png)
 [![](2nd_gen/black.png)](2nd_gen/black.png)
 [![](2nd_gen/blackline.png)](2nd_gen/blackline.png)
