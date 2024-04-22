@@ -232,6 +232,10 @@ SPDX-License-Identifier: CC-BY-4.0
 
 [![outline.png](3rd_gen/outline.png)](3rd_gen/outline.png)
 
+### paintschainer.jpg
+
+[![paintschainer.jpg](3rd_gen/paintschainer.jpg)](3rd_gen/paintschainer.jpg)
+
 ### pattern.png
 
 [![pattern.png](3rd_gen/pattern.png)](3rd_gen/pattern.png)
@@ -267,6 +271,10 @@ SPDX-License-Identifier: CC-BY-4.0
 ### plate_red.png
 
 [![plate_red.png](3rd_gen/plate_red.png)](3rd_gen/plate_red.png)
+
+### polar.jpg
+
+[![polar.jpg](3rd_gen/polar.jpg)](3rd_gen/polar.jpg)
 
 ### reversed.png
 
